@@ -12,6 +12,7 @@
         <PackageTags>asmresolver,cil,utility,helper</PackageTags>
         <Company>LambdaTheDev</Company>
         <TargetFrameworks>netstandard2.0;netstandard2.1</TargetFrameworks>
+        <PackageVersion>1.1.0</PackageVersion>
     </PropertyGroup>
 
     <ItemGroup>
