@@ -1,7 +1,6 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
-        <TargetFramework>netstandard2.0</TargetFramework>
         <Nullable>enable</Nullable>
         <RootNamespace>LambdaTheDev.AsmResolverKit</RootNamespace>
         <LangVersion>8</LangVersion>
@@ -12,6 +11,7 @@
         <RepositoryType>git</RepositoryType>
         <PackageTags>asmresolver,cil,utility,helper</PackageTags>
         <Company>LambdaTheDev</Company>
+        <TargetFrameworks>netstandard2.0;netstandard2.1</TargetFrameworks>
     </PropertyGroup>
 
     <ItemGroup>
