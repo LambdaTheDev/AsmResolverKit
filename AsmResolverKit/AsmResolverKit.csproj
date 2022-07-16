@@ -5,6 +5,13 @@
         <Nullable>enable</Nullable>
         <RootNamespace>LambdaTheDev.AsmResolverKit</RootNamespace>
         <LangVersion>8</LangVersion>
+        <Description>Helper extension methods that may increase productivity while working with AsmResolver library.</Description>
+        <Copyright>LambdaTheDev</Copyright>
+        <PackageProjectUrl>https://github.com/LambdaTheDev/AsmResolverKit</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/LambdaTheDev/AsmResolverKit</RepositoryUrl>
+        <RepositoryType>git</RepositoryType>
+        <PackageTags>asmresolver,cil,utility,helper</PackageTags>
+        <Company>LambdaTheDev</Company>
     </PropertyGroup>
 
     <ItemGroup>
